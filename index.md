@@ -3,8 +3,6 @@ layout: default
 title: Deft Division
 ---
 
-# Deft Division
-
 Deft Division is an early stage consultancy where we are currently focused
 on experimenting with value-based pricing models.
 

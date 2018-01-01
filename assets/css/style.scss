@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*
+ * Hide extra stuff not applicable right now
+ */
+
+#header {
+  display: none;
+}
+
+#title {
+  span.credits {
+    display: none;
+  }
+}
